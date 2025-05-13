@@ -1,7 +1,5 @@
 EEP3020 : Digital Systems Lab   
 Reinforcement Learning on STM 32  
-Pari Sharma(B22CS039) , Pranaya Jayaprakash(B22EE086) , Aastha Bhore(B22EE002)  
-Technique used : Q learning  
 ---
 
 ### **Output Demonstration : [snakeGameRecording.mp4](https://drive.google.com/file/d/1Mra4PMBXKj3pZDwQMFjrvg86lA1RYZ9h/view?usp=sharing)**
